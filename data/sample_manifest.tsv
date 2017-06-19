@@ -1,3 +1,4 @@
 sample	status	group
 pixel-lab-viewer-01	ready	control
 pixel-lab-viewer-02	review	case
+pixel-lab-viewer-03	queued	validation
